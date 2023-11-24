@@ -1,6 +1,6 @@
 # oasearch
 
-## How to add your url
+## How to add your Website
 
 go to the file search.js and copy this format and paste into the code
 
