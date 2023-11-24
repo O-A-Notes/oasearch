@@ -1,1 +1,33 @@
+[
+    {
+        "value": "Example Page 1",
+        "url": "https://www.example.com/page1",
+        "icon": '<i class="ti-world" title="Website"></i>',
+        "type": "website"
+    },
+    {
+        "value": "Example Page 2",
+        "url": "https://www.example.com/page2",
+        "icon": '<i class="ti-world" title="Website"></i>',
+        "type": "website"
+    },
+    {
+        "value": "Discussion Topic 1",
+        "url": "https://example.com/discussion/topic1",
+        "icon": '<i class="ti-comments" title="Discussion"></i>',
+        "type": "discussion"
+    },
+    {
+        "value": "Files Section 1",
+        "url": "https://example.com/files/section1",
+        "icon": '<i class="ti-files" title="Files"></i>',
+        "type": "files"
+    },
+    {
+        "value": "Another Page",
+        "url": "https://www.example.com/anotherpage",
+        "icon": '<i class="ti-world" title="Website"></i>',
+        "type": "website"
+    }
+]
 
