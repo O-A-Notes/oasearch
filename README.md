@@ -39,3 +39,9 @@ We support:
 6) Files
 7) Google Drive Links
 8) Movies Urls
+
+## Add to your search engine
+
+```
+<script src="https://o-a-notes.github.io/oasearch/search.js"></script>
+```
