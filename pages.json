@@ -2,7 +2,7 @@
     {
         "value": "Example Page 1",
         "url": "https://www.example.com/page1",
-        "icon": '<i class="ti-world" title="Website"></i>',
+        "icon": "<i class="ti-world" title="Website"></i>",
         "type": "website"
     },
     {
@@ -31,4 +31,3 @@
     }
 ]
 
-"This file is under development"
