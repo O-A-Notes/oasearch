@@ -139,6 +139,12 @@
             type: "website"
         },
         {
+            value: "Chat GPT",
+            url: "https://chat.openai.com",
+            icon: '<i class=ti-world title="Website"></i>',
+            type: "website"
+        },
+        {
             value: "Edexcel Mathematics B Past Papers",
             url: "https://www.shawonnotes.com/index.php/edexcel-past-papers/mathematics-b/",
             icon: '<i class=ti-world title="Files"></i>',
