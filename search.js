@@ -157,7 +157,7 @@
             type: "files"
         }
     ]; e.oninput = () => {
-        const n = $("#search-result"); if (n.innerHTML = "", e.classList.remove("expanded"), !e.value.trim()) return; new Promise(e => { if (t.length > 0) { e(t); return } fetch("https://oasearch.netlify.app/pages.json").then(e => e.json()).then(n => { t = n, e(n) }) }).then(() => {
+        const n = $("#search-result"); if (n.innerHTML = "", e.classList.remove("expanded"), !e.value.trim()) return; new Promise(e => { if (t.length > 0) { e(t); return } fetch("pages.json").then(e => e.json()).then(n => { t = n, e(n) }) }).then(() => {
             const o = e.value.toUpperCase().split(" "), s = t.filter(e => o.reduce((t, n) => t && e.value.toUpperCase().indexOf(n) !== -1, !0)); e.classList.add("expanded"), s.push({ value: "Didn't find anything? Use Discord", url: "https://discord.gg/mR5c6ryfVX" }), s.forEach(e => {
                 n.appendChild(Object.assign(document.createElement("LI"), {
                     innerHTML: `<a hr` + `ef="${e.url}" data-text="${e.value}">
