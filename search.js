@@ -31,6 +31,12 @@
             type: "website"
         },
         {
+            value: "GitLab",
+            url: "https://www.gitlab.com",
+            icon: '<i class=ti-world title="Website"></i>',
+            type: "website"
+        },
+        {
             value: "🗒️ Notebd",
             url: "https://notebd.vercel.app/",
             icon: '<i class=ti-world title="Website"></i>',
