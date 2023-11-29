@@ -43,6 +43,42 @@ let urlData = [
         type: "Computer application"
     },
     {
+        value: "Twitter",
+        url: "http://www.twitter.com",
+        icon: '<i class=ti-world title="Website"></i>',
+        type: "Social network"
+    },
+    {
+        value: "Instagram",
+        url: "https://www.instagram.com",
+        icon: '<i class=ti-world title="Website"></i>',
+        type: "Social network"
+    },
+    {
+        value: "Facebook",
+        url: "https://www.facebook.com",
+        icon: '<i class=ti-world title="Website"></i>',
+        type: "Social network"
+    },
+    {
+        value: "Snapchat",
+        url: "https://www.snapchat.com",
+        icon: '<i class=ti-world title="Website"></i>',
+        type: "Social network"
+    },
+    {
+        value: "Discord",
+        url: "https://discord.com",
+        icon: '<i class=ti-world title="Website"></i>',
+        type: "Social network"
+    },
+    {
+        value: "Messenger",
+        url: "https://www.messenger.com",
+        icon: '<i class=ti-world title="Website"></i>',
+        type: "Software"
+    },
+    {
         value: "WhatsApp Web",
         url: "https://web.whatsapp.com",
         icon: '<i class=ti-world title="Website"></i>',
