@@ -12,7 +12,7 @@ icon: '<i class=ti-world title="Website"></i>',
 type: "website"
 },
 ```
-For Icons we use [https://fontawesome.com](https://fontawesome.com/) And [Themify Icons](https://themify.me/)
+For Icons we use [Themify Icons](https://themify.me/)
 
 
 ### Alternate
