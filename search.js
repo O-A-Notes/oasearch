@@ -79,6 +79,12 @@ let urlData = [
         type: "Software"
     },
     {
+        value: "GitLab",
+        url: "https://www.gitlab.com",
+        icon: '<i class=ti-gitlab title="Website"></i>',
+        type: "Software"
+    },
+    {
         value: "Vercel",
         url: "https://vercel.com",
         icon: '<i class=ti-world title="Website"></i>',
