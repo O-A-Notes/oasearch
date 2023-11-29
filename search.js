@@ -152,7 +152,7 @@ let urlData = [
     },
     {
         value: "Theory of magnetism",
-        url: "https://discord.com/channels/1022116676558393386/1068011315244847184",
+        url: "https://shrinkme.info/E6CRRo",
         icon: '<i class=ti-world title="Discord"></i>',
         type: "Discussion"
     },
