@@ -31,6 +31,18 @@ let urlData = [
         type: "Software"
     },
     {
+        value: "Vercel",
+        url: "https://vercel.com",
+        icon: '<i class=ti-world title="Website"></i>',
+        type: "Web hosting service"
+    },
+    {
+        value: "Netlify",
+        url: "http://www.netlify.com",
+        icon: '<i class=ti-world title="Website"></i>',
+        type: "Computer application"
+    },
+    {
         value: "WhatsApp Web",
         url: "https://web.whatsapp.com",
         icon: '<i class=ti-world title="Website"></i>',
