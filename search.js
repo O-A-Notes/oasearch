@@ -25,6 +25,54 @@ let urlData = [
         type: "Technology"
     },
     {
+        value: "Google Meet",
+        url: "https://meet.google.com",
+        icon: '<i class=ti-video-camera title="Website"></i>',
+        type: "Computer program"
+    },
+    {
+        value: "Google Drive",
+        url: "https://drive.google.com",
+        icon: '<i class=ti-cloud title="Website"></i>',
+        type: "Cloud storage"
+    },
+    {
+        value: "Google Calendar",
+        url: "https://calendar.google.com",
+        icon: '<i class=ti-calendar title="Website"></i>',
+        type: "Time-management"
+    },
+    {
+        value: "Google Docs",
+        url: "https://docs.google.com",
+        icon: '<i class=ti-file title="Website"></i>',
+        type: "Word processor"
+    },
+    {
+        value: "Google Keep",
+        url: "https://keep.google.com",
+        icon: '<i class=ti-notepad title="Website"></i>',
+        type: "Application"
+    },
+    {
+        value: "Google Classroom",
+        url: "https://classroom.google.com",
+        icon: '<i class=ti-book title="Website"></i>',
+        type: "Learning platform"
+    },
+    {
+        value: "Google Forms",
+        url: "https://docs.google.com/forms",
+        icon: '<i class=tti-agenda title="Website"></i>',
+        type: "Survey"
+    },
+    {
+        value: "Gmail",
+        url: "https://mail.google.com",
+        icon: '<i class=ti-goti-email title="Website"></i>',
+        type: "Mail"
+    },
+    {
         value: "Github",
         url: "https://www.github.com",
         icon: '<i class=ti-github title="Website"></i>',
