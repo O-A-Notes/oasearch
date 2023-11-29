@@ -27,7 +27,7 @@ let urlData = [
     {
         value: "Github",
         url: "https://www.github.com",
-        icon: '<i class=ti-world title="Website"></i>',
+        icon: '<i class=ti-github title="Website"></i>',
         type: "Software"
     },
     {
@@ -51,13 +51,13 @@ let urlData = [
     {
         value: "Instagram",
         url: "https://www.instagram.com",
-        icon: '<i class=ti-world title="Website"></i>',
+        icon: '<i class=ti-instagram title="Website"></i>',
         type: "Social network"
     },
     {
         value: "Facebook",
         url: "https://www.facebook.com",
-        icon: '<i class=ti-world title="Website"></i>',
+        icon: '<i class=ti-facebook title="Website"></i>',
         type: "Social network"
     },
     {
