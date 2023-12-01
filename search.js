@@ -18,6 +18,7 @@ let urlData = [
         icon: '<i class=ti-youtube title="Website"></i>',
         type: "Video sharing"
     },
+    // google websites
     {
         value: "Google",
         url: "https://www.google.com",
@@ -96,6 +97,7 @@ let urlData = [
         icon: '<i class=ti-world title="Website"></i>',
         type: "Computer application"
     },
+    // Social sites
     {
         value: "Twitter",
         url: "http://www.twitter.com",
