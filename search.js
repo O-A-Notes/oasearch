@@ -260,5 +260,12 @@ let urlData = [
         url: "https://www.shawonnotes.com/index.php/edexcel-past-papers/mathematics-b/",
         icon: '<i class=ti-world title="Files"></i>',
         type: "files"
+    },
+    // Developers tools
+    {
+        value: "Create your Google Sitemap Online - XML Sitemaps Generator",
+        url: "https://www.xml-sitemaps.com",
+        icon: '<i class=ti-world title="Tools"></i>',
+        type: "Tools" 
     }
 ];
