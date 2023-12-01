@@ -162,6 +162,13 @@ let urlData = [
         icon: '<i class=ti-world title="Discord"></i>',
         type: "Discussion"
     },
+    //crypto websites
+    {
+        value: "Bitcoin",
+        url: "https://bitcoin.org",
+        icon: '<i class=ti-world title="Bitcoin"></i>',
+        type: "Website"
+    },
     {
         value: "Range and interquartile range",
         url: "https://discord.com/channels/1022116676558393386/1170240482673184868",
