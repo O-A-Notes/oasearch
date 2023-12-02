@@ -45,3 +45,11 @@ We support:
 ```
 <script src="https://o-a-notes.github.io/oasearch/search.js"></script>
 ```
+
+### Alternative
+
+```
+<script src="https://cdn.jsdelivr.net/gh/O-A-Notes/oasearch@main/search.js"></script>
+```
+
+
