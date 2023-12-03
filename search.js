@@ -167,11 +167,15 @@ let urlData = [
     // News Website
     {
         value: "BBC News",
-        url: "https://www.bbc.com"
+        url: "https://www.bbc.com",
+        icon: '<i class=ti-layout-grid3 title="BBC"></i>',
+        type: "News"
     },
     {
         value: "Al Jazeera",
-        url: "https://www.aljazeera.com"
+        url: "https://www.aljazeera.com",
+        icon: '<i class=ti-layout-grid3 title="Al Jazeera"></i>',
+        type: "News"
     },
 
 
