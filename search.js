@@ -164,6 +164,17 @@ let urlData = [
         icon: '<i class=ti-world title="Discord"></i>',
         type: "Discussion"
     },
+    // News Website
+    {
+        value: "BBC News",
+        url: "https://www.bbc.com",
+    },
+    {
+        value: "Al Jazeera",
+        url: "https://www.aljazeera.com",
+    },
+
+
     //crypto websites
     {
         value: "Bitcoin",
