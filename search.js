@@ -167,11 +167,11 @@ let urlData = [
     // News Website
     {
         value: "BBC News",
-        url: "https://www.bbc.com",
+        url: "https://www.bbc.com"
     },
     {
         value: "Al Jazeera",
-        url: "https://www.aljazeera.com",
+        url: "https://www.aljazeera.com"
     },
 
 
