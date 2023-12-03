@@ -169,8 +169,17 @@ let urlData = [
         value: "Bitcoin",
         url: "https://bitcoin.org",
         icon: '<i class=ti-world title="Bitcoin"></i>',
-        type: "Website"
+        type: "Cryptocurrency"
     },
+    // AI
+    {
+        value: "Chat GPT",
+        url: "https://chat.openai.com",
+        icon: '<i class=ti-world title="chatgpt"></i>',
+        type: "AI"
+    },
+
+    // Discussions
     {
         value: "Range and interquartile range",
         url: "https://discord.com/channels/1022116676558393386/1170240482673184868",
@@ -266,6 +275,6 @@ let urlData = [
         value: "Create your Google Sitemap Online - XML Sitemaps Generator",
         url: "https://www.xml-sitemaps.com",
         icon: '<i class=ti-world title="Tools"></i>',
-        type: "Tools" 
+        type: "Tools"
     }
 ];
