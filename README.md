@@ -2,7 +2,7 @@
 
 ## How to add your Website
 
-go to the file search.js and copy this format and paste into the {code](search.js)
+go to the file search.js and copy this format and paste into the [code](search.js)
 
 ```js
 {
