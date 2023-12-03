@@ -179,7 +179,6 @@ let urlData = [
         type: "AI"
     },
 
-
     // Discussions
     {
         value: "Range and interquartile range",
