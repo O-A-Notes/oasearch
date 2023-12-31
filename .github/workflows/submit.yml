@@ -3,10 +3,10 @@ description: Submit Your Website
 title: '[Submit Your Website]: '
 labels: ['submit']
 assignees:
-  - MohammadTaseenKhan
+  - O-A-Notes
 body:
   - type: input
-    id: Title
+    id: title
     attributes:
       label: Website Title
       description: What is name of the website ???
