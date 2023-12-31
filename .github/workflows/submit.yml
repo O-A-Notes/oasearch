@@ -1,0 +1,23 @@
+name: O/A Search
+description: Submit Your Website
+title: '[Submit Your Website]: '
+labels: ['submit']
+assignees:
+  - MohammadTaseenKhan
+body:
+  - type: input
+    id: Title
+    attributes:
+      label: Website Title
+      description: What is name of the website ???
+      placeholder: ex. Facebook
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Website URLs
+      description: Enter your website or page URL
+      placeholder: ex. example.com
+    validations:
+      required: true
